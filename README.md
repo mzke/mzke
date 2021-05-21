@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou Richard @mzke
 
-- 🌱 No momento aprendendo Blazor e RavenDB!
+- 🌱 No momento aprendendo Python!
 
 <!---
 mzke/mzke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
